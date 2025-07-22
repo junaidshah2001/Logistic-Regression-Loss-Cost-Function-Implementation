@@ -40,7 +40,8 @@ Matplotlib (optional, for visualization)
 bash
 Copy
 Edit
-git clone https://github.com/junaidshah2001/logistic-regression-loss.git
+git clone https://github.com/junaidshah2001/Logistic-Regression-Loss-Cost-Function-Implementation
+
 cd logistic-regression-loss
 2. Install dependencies:
 bash
